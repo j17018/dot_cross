@@ -6,5 +6,4 @@ Presionar r para reiniciar.
 
 ```
 python3 main.py
-
 ```
